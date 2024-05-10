@@ -1110,6 +1110,8 @@ body {
 @media (max-width: 767px) {
   .events .subscribe form input[type="submit"] {
     border-radius: 0;
+              display: block;
+
   }
 }
 .events .subscribe form input[type="submit"]:hover {
